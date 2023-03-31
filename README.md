@@ -19,7 +19,7 @@ To run this app, you need Android Studio installed on your computer.
 [<img src="https://github.com/shivank8/ChatGPT_App/blob/master/Screenshot_1.png?raw=true" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="https://github.com/shivank8/ChatGPT_App/blob/master/Screenshot_2.png?raw=true" align="center"
+[<img src="https://github.com/shivank8/ChatGPT_App/blob/master/Screenshot_3.png?raw=true" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
 
