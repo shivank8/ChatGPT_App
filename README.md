@@ -5,6 +5,7 @@
 This is an Android app built in Kotlin that allows users to send questions and get responses using the OpenAI GPT-3 API.
 
 ## Getting Started
+### Full tutorial on Youtube: https://youtu.be/bLktoOzb4R0
 ### Prerequisites
 To run this app, you need Android Studio installed on your computer.
 
