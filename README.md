@@ -17,12 +17,12 @@ To run this app, you need Android Studio installed on your computer.
 
 ## Screenshots
 
-[<img src="https://github.com/shivank8/ChatGPT_App/blob/5fb98653983af48a222be6a46070d5c3f9b95349/new_Screenshot_1.png?raw=true" align="left"
+[<img src="https://i.imgur.com/qoqxUTk.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="https://github.com/shivank8/ChatGPT_App/blob/master/new_Screenshot_2.png?raw=true" align="center"
+    hspace="10" vspace="10">](1)
+[<img src="https://i.imgur.com/YR2vKls.png" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    hspace="10" vspace="10">](2)
 
 ## Built With
 - Kotlin - Programming language used.
