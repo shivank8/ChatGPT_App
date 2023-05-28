@@ -18,13 +18,17 @@ import java.io.IOException
 
 class MainActivity : AppCompatActivity() {
     private val client = OkHttpClient()
+    // creating variables on below line.
+    lateinit var txtResponse: TextView
+    lateinit var idTVQuestion: TextView
+    lateinit var etQuestion: TextInputEditText
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val etQuestion=findViewById<TextInputEditText>(R.id.etQuestion)
+        etQuestion=findViewById<TextInputEditText>(R.id.etQuestion)
         //val btnSubmit=findViewById<Button>(R.id.btnSubmit)
-        val idTVQuestion=findViewById<TextView>(R.id.idTVQuestion)
-        val txtResponse=findViewById<TextView>(R.id.txtResponse)
+        idTVQuestion=findViewById<TextView>(R.id.idTVQuestion)
+        txtResponse=findViewById<TextView>(R.id.txtResponse)
 
         /** btnSubmit.setOnClickListener {
         val question=etQuestion.text.toString().trim()
@@ -63,6 +67,11 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun getResponse(question: String, callback: (String) -> Unit){
+
+        // setting text on for question on below line.
+        idTVQuestion.text = question
+        etQuestion.setText("")
+
         val apiKey="YOUR_API_KEY"
         val url="https://api.openai.com/v1/engines/text-davinci-003/completions"
 
