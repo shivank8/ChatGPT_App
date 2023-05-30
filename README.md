@@ -12,17 +12,21 @@ To run this app, you need Android Studio installed on your computer.
 ### Installation
 - Clone this repository.
 - Open the project in Android Studio.
-- Obtain an API key from OpenAI and replace YOUR_API_KEY in the MainActivity.kt file with your actual API key.
+- Obtain an API key from OpenAI: https://platform.openai.com/account/api-keys
+- replace YOUR_API_KEY in the MainActivity.kt file with your actual API key.
 - Build and run the app on your device or emulator.
 
 ## Screenshots
 
-[<img src="https://i.imgur.com/qoqxUTk.png" align="left"
+[<img src="https://i.imgur.com/um3xa2j.png" align="left"
 width="200"
-    hspace="10" vspace="10">](1)
-[<img src="https://i.imgur.com/YR2vKls.png" align="center"
+    hspace="10" vspace="10">](https://i.imgur.com/um3xa2j.png)
+[<img src="https://i.imgur.com/ofwR5YT.png" align="center"
 width="200"
-    hspace="10" vspace="10">](2)
+    hspace="10" vspace="10">](https://i.imgur.com/ofwR5YT.png)
+[<img src="https://i.imgur.com/rsv9Em6.png" align="center"
+width="200"
+    hspace="10" vspace="10">](https://i.imgur.com/rsv9Em6.png)    
 
 ## Built With
 - Kotlin - Programming language used.
