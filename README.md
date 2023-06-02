@@ -41,7 +41,7 @@ width="200"
 ```license
 MIT License
 
-Copyright (c) 2021 Shivank Verma
+Copyright (c) 2023 Shivank Verma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
